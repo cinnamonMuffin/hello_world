@@ -1,0 +1,6 @@
+Greetings,
+
+My name is Nischal Binil and I am currently working as an Intern at Futurense Technologies. 
+Through the course of this internship, I aim to work on projects with my team 
+and simultaneously learn to work on platforms such as GitHub, Git, Agile etc. 
+as well as to increase my programming knowledge in Python, C, C++, and Java.
